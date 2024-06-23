@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(() => {   console.log('Excel Data Analyzer extension installed'); });
